@@ -8,7 +8,7 @@
     <link href="/2024/07/02/test-paper/"/>
     <url>/2024/07/02/test-paper/</url>
     
-    <content type="html"><![CDATA[<p>这是测试文章</p><p><img src="/test.jpg" alt="图片引用方法2"></p>]]></content>
+    <content type="html"><![CDATA[<p>这是测试文章</p><figure class="highlight maxima"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs maxima">&#123;<span class="hljs-symbol">%</span> asset_img test.jpg This <span class="hljs-built_in">is</span> an <span class="hljs-built_in">example</span> <span class="hljs-built_in">image</span> <span class="hljs-symbol">%</span>&#125;<br></code></pre></td></tr></table></figure><p><img src="/2024/07/02/hello-world/est.jpg" alt="picture"></p>]]></content>
     
     
     <categories>
